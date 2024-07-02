@@ -40,3 +40,6 @@ The dataset used for this project is from a CSV file named `spam.csv`, which con
 ## **Streamlit Application**
 
 I have also developed a Streamlit application to classify sentences using the trained model (spam_detection.h5). The application provides an easy-to-use interface for users to input a sentence and get a classification result (spam or ham).
+
+<img src="https://github.com/Abeshith/Computer-Vision/blob/main/output%20images/Detect-FromPhotos.png" width="400">
+
