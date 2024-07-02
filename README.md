@@ -42,10 +42,10 @@ The dataset used for this project is from a CSV file named `spam.csv`, which con
 I have also developed a Streamlit application to classify sentences using the trained model (spam_detection.h5). The application provides an easy-to-use interface for users to input a sentence and get a classification result (spam or ham).
 
 ## **Not Spam**
-<img src="https://github.com/Abeshith/Afame_Technologies/blob/main/outputs/not%20spam.png" width="400">
+<img src="https://github.com/Abeshith/Afame_Technologies/blob/main/outputs/not%20spam.png" width="800" height="600">
 
 ## **Spam**
-<img src="https://github.com/Abeshith/Afame_Technologies/blob/main/outputs/not%20spam.png" width="400">
+<img src="https://github.com/Abeshith/Afame_Technologies/blob/main/outputs/spam.png" width="800" height="600">
 
 
 
