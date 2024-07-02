@@ -38,3 +38,5 @@ The dataset used for this project is from a CSV file named `spam.csv`, which con
     - Save the trained model to a file `spam_detection.h5`.
 
 ## **Streamlit Application**
+
+I have also developed a Streamlit application to classify sentences using the trained model (spam_detection.h5). The application provides an easy-to-use interface for users to input a sentence and get a classification result (spam or ham).
