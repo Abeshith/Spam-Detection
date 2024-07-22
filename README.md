@@ -1,5 +1,3 @@
-# Afame-Technologies
-
 # Spam Classification Using Deep Learning
 
 This project demonstrates a deep learning approach to spam classification using Python, TensorFlow, and Natural Language Processing (NLP) techniques. The model is built with a Bidirectional LSTM to classify messages as spam or ham.
